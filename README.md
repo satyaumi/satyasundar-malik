@@ -1,18 +1,18 @@
-<h1 align="left">Hi, I'm Laxmi Nrusingh Rath. 👨‍💻✌🏻</h1>
-<h3 align="left">Crafting Digital Experiences | Web Dev Enthusiast.</h3>
+<h1 align="left">Hi, I'm satyasundar malik. 👨‍💻✌🏻</h1>
+<h3 align="left"> | Web Dev Enthusiast.</h3>
 
 <img align="right" alt="coding" width="400"
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaDJuZW0wb25zYmRjbnhzenNmMndjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 
-- 🔭 I’m currently studying *Electrical and Computer Engineering.*
+- 🔭 I’m currently studying *Computer science and  Engineering.*
 
-- 🌱 I’m currently learning *Web design & Web development.*
+- 🌱 I’m currently learning *ai/ml & Web development.*
 
-- 👯 I’m looking to collaborate on *full-stack web development.*
+- 👯 I’m looking to collaborate on * web development.*
 
 - 🤝 I’m looking for help with *backend development.*
 
-- 📫 Reach me at: *laxminrusingh8@gmail.com*
+- 📫 Reach me at: *satyamlkinf@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
